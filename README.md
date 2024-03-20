@@ -1,4 +1,4 @@
-# 🚀 Build Week at [Epicode](https://epicode.com/it/)! 🛠️💻
+![127 0 0 1_5500_index2 html (1)](https://github.com/Aoblu87/Benchmark-Epicod/assets/126720391/148d945a-0256-4e4a-bc13-bb0eb8986c37)# 🚀 Build Week at [Epicode](https://epicode.com/it/)! 🛠️💻
 
 ## Last project of the Programming Foundations module with [William Costa ](https://github.com/WillyWilliam00), [Gianni Cimmino](https://github.com/GianniCimmino), [Giuseppe Andrea Costa](https://github.com/giuseppeandreacosta), Andrea Taccheri 🎉👨‍💻👩‍💻
 
@@ -17,3 +17,5 @@ Join forces with your squad, divide and conquer the tasks, and let's bring our p
 - **Question page craftsmanship** 🎨: Design a place where curiosity meets challenge.
 
 Together, let's replicate the iconic Benchmark app, mirroring its sleek design and sharp functionality. 🌟
+
+![127 0 0 1_5500_index2 html (1)](https://github.com/Aoblu87/Benchmark-Epicod/assets/126720391/ac202a52-2b60-4c22-8a26-6845ea039d26)
